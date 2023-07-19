@@ -7,7 +7,7 @@ export const EVENT = "International FDP on Research Tools";
 export const POSITIONS = [
   {
     x: 2216,
-    y: 1120,
+    y: 1140,
     maxWidth: 3000,
     content: "name",
   },
