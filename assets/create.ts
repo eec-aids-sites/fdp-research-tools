@@ -11,16 +11,14 @@ interface Text {
   content: string;
 }
 
-const __dirname = new URL(".", import.meta.url).pathname;
-
-const bg = await loadImage(`${__dirname}/cert_base.webp`);
+const bg = await loadImage(`cert_base.webp`);
 
 const fontFam = await Deno.readFile(
-  `${__dirname}/Courgette-Regular.ttf`,
+  `Courgette-Regular.ttf`,
 );
 
 const fontTest = await Deno.readFile(
-  `${__dirname}/Akrobat-Black.otf`,
+  `Akrobat-Black.otf`,
 );
 
 export default function create(data: Text[]): string {
