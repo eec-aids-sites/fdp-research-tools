@@ -1,8 +1,8 @@
-export const TITLE = "Certificates | Demo";
+export const TITLE = "Certificates | FDP";
 export const DEPARTMENT =
   "Department of Artificial Intelligence & Data Science";
 
-export const EVENT = "Sample Event Name";
+export const EVENT = "International FDP on Research Tools";
 
 export const POSITIONS = [
   {
@@ -12,9 +12,9 @@ export const POSITIONS = [
     content: "name",
   },
   {
-    x: 1550,
+    x: 1000,
     y: 1310,
-    maxWidth: 2000,
+    maxWidth: 1350,
     content: "college",
   },
 ];
