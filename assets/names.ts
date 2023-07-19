@@ -1,4 +1,4 @@
-[
+export default [
   {
     "name": "Umamageswari K",
     "email": "umaganesh1988@gmail.com",
