@@ -2384,7 +2384,7 @@ export default [
     "phone": "9840091031",
   },*/
   {
-    "name": "V Rekha",
+    "name": "Narmadha P G",
     "email": "gnajeeb@rediffmail.com",
     "college": "Panimalar Engineering College",
     "phone": "9840091031",
