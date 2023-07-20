@@ -2383,4 +2383,16 @@ export default [
     "college": "Erode Sengunthar Engineering College",
     "phone": "9865062970",
   },
+  {
+    "name": "P. Raja Priya",
+    "email": "rajapriya89@gmail.com",
+    "college": "Francis Xavier Engineering College",
+    "phone": "9488456313",
+  },
+  {
+    "name": "V. Kannan",
+    "email": "kannanvpandian@gmail.com",
+    "college": "National Engineering College, K.R.Nagar",
+    "phone": "9787211014",
+  },
 ];
