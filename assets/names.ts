@@ -1275,12 +1275,6 @@ export default [
     "phone": "9840990936",
   },
   {
-    "name": "V J Chakravarthy",
-    "email": "chakkucksm1808@gmail.com",
-    "college": "MGR Educational And Research Institute",
-    "phone": "9883161687",
-  },
-  {
     "name": "B Meenakshi",
     "email": "Meenakshi.eee@sairam.edu.in",
     "college": "Sri Sairam Engineering College",
@@ -2169,7 +2163,7 @@ export default [
   {
     "name": "V J Chakravarthy",
     "email": "chakkucksm1808@gmail.com",
-    "college": "MGR Educational And Research Institute",
+    "college": "Dr. MGR Educational And Research Institute",
     "phone": "9883161687",
   },
   {
