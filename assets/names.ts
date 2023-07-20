@@ -2378,9 +2378,9 @@ export default [
     "phone": "9865062970",
   },
   {
-    "name": "G Najeeb Ahmed",
+    "name": "Indumathy P ",
     "email": "gnajeeb@rediffmail.com",
-    "college": "The New College, Chennai",
+    "college": "Easwari Engineering College",
     "phone": "9840091031",
   },
 ];
