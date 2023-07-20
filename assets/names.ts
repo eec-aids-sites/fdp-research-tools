@@ -2383,16 +2383,4 @@ export default [
     "college": "Erode Sengunthar Engineering College",
     "phone": "9865062970",
   },
-  {
-    "name": "M Umamaheswari",
-    "email": "rajapriya89@gmail.com",
-    "college": "Bharath Institute of Higher Education and Research",
-    "phone": "9488456313",
-  },
-  {
-    "name": "R Rekha Sharmily",
-    "email": "kannanvpandian@gmail.com",
-    "college": "Bharath Institute of Higher Education and Research",
-    "phone": "9787211014",
-  },
 ];
