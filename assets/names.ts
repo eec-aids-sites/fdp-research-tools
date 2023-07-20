@@ -2376,17 +2376,11 @@ export default [
     "email": "yrobin1969@gmail.com",
     "college": "Erode Sengunthar Engineering College",
     "phone": "9865062970",
-  },/*
+  },
   {
     "name": "G Najeeb Ahmed",
     "email": "gnajeeb@rediffmail.com",
     "college": "The New College, Chennai",
-    "phone": "9840091031",
-  },*/
-  {
-    "name": "Narmadha P G",
-    "email": "gnajeeb@rediffmail.com",
-    "college": "Panimalar Engineering College",
     "phone": "9840091031",
   },
 ];
