@@ -743,7 +743,7 @@ export default [
   {
     "name": "S. Umamaheswari",
     "email": "umamurugesan0104@ gmail.com",
-    "college": "P.T.lee.chengalavrayan Polytechnic College,vepery,chennai",
+    "college": "P.T. Lee Chengalavrayan Polytechnic College",
     "phone": "8248455355",
   },
   {
