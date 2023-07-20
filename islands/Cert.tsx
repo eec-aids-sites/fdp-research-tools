@@ -48,7 +48,7 @@ function GetCertificate({ id }: { id: string }) {
         href={cert}
         target="_blank"
         class="flex flex-col items-center"
-        download={`CYSEC_EEC_${id}_${name.name}.png`}
+        download={`FDP_RT_EEC_${id}_${name.name}.png`}
       >
         <img class="w-full lg:w-96" src={cert} />
         <small class="text-blue-400">({cert ? `Click to download` : `Please wait...`})</small>

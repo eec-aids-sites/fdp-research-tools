@@ -428,7 +428,7 @@ export default [
     "phone": "9894542652",
   },
   {
-    "name": "K. Priyadharshi",
+    "name": "K. Priyadharshini",
     "email": "priyared7@gmail.com",
     "college": "Jeppiaar Engineering College",
     "phone": "9976333893",
@@ -917,7 +917,7 @@ export default [
     "phone": "9884304311",
   },
   {
-    "name": "Sasi",
+    "name": "B. Sasikumar",
     "email": "sasikb2002@gmail.com",
     "college": "Erode Sengunthar Engineering College",
     "phone": "9036064370",
@@ -1313,7 +1313,7 @@ export default [
   {
     "name": "G. Sivaperumal",
     "email": "sivaperumalgopalan@gmail.com",
-    "college": "6105",
+    "college": "Dhirajalal Gandhi College of Technology, Salem",
     "phone": "9578549201",
   },
   {
@@ -2314,7 +2314,7 @@ export default [
   {
     "name": "T. Kalai Selvi",
     "email": "tkalaiselvi1281@gmail.com",
-    "college": "Erode Sengunthar Engineering College, Perundurai, Erode,",
+    "college": "Erode Sengunthar Engineering College",
     "phone": "9842899992",
   },
   {
@@ -2367,8 +2367,26 @@ export default [
   },
   {
     "name": "L Vidhya",
-    "email": "Vidhya.chm@hicet.ac.in",
+    "email": "vidhya.chm@hicet.ac.in",
     "college": "Hindustan College of Engineering & Technology",
     "phone": "9443938568",
+  },
+  {
+    "name": "Niranjan Babu",
+    "email": "niranjanbabu2003@gmail.com",
+    "college": "Bapatla Engineering College",
+    "phone": "9440242535",
+  },
+  {
+    "name": "Priti Rishi",
+    "email": "pritir@srmist.edu.in",
+    "college": "SRM Institute of Science & Technology, Vadapalani",
+    "phone": "<>",
+  },
+  {
+    "name": "Y Robinson",
+    "email": "yrobin1969@gmail.com",
+    "college": "Erode Sengunthar Engineering College",
+    "phone": "9865062970",
   },
 ];
