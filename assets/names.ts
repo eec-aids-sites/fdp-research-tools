@@ -2227,12 +2227,6 @@ export default [
     "phone": "9842012421",
   },
   {
-    "name": "D. Madhina Banu",
-    "email": "madina@crescent.education",
-    "college": "BSA Crescent Institute Of Science And Technology",
-    "phone": "8939941943",
-  },
-  {
     "name": "V. Muthupriya",
     "email": "muthupriya@crescent.education",
     "college": "B.S.Abdur Rahman Crescent Institute Of Science And Technology",
@@ -2382,11 +2376,17 @@ export default [
     "email": "yrobin1969@gmail.com",
     "college": "Erode Sengunthar Engineering College",
     "phone": "9865062970",
-  },
+  },/*
   {
     "name": "G Najeeb Ahmed",
     "email": "gnajeeb@rediffmail.com",
     "college": "The New College, Chennai",
+    "phone": "9840091031",
+  },*/
+  {
+    "name": "T. Selva Banu Priya",
+    "email": "gnajeeb@rediffmail.com",
+    "college": "Panimalar Engineering College",
     "phone": "9840091031",
   },
 ];
