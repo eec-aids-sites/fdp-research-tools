@@ -2384,15 +2384,15 @@ export default [
     "phone": "9865062970",
   },
   {
-    "name": "P. Raja Priya",
+    "name": "M Umamaheswari",
     "email": "rajapriya89@gmail.com",
-    "college": "Francis Xavier Engineering College",
+    "college": "Bharath Institute of Higher Education and Research",
     "phone": "9488456313",
   },
   {
-    "name": "V. Kannan",
+    "name": "R Rekha Sharmily",
     "email": "kannanvpandian@gmail.com",
-    "college": "National Engineering College, K.R.Nagar",
+    "college": "Bharath Institute of Higher Education and Research",
     "phone": "9787211014",
   },
 ];
